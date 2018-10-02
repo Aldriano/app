@@ -1,2 +1,2 @@
 # app
-Projeto  aplicação com Android Studio
+Projeto: Exemplos com Android Studio
